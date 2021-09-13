@@ -1,9 +1,9 @@
-# shoestring-hackathon-2020
-Automated machine vision inspection using machine learning for small SMEs
+# Digital Manufacturing on a Shoestring Hackathon 2020
+Project: Create an automated machine vision inspection workflow using machine learning, targeted at small SMEs.
 
-Code used for the IfM Hackathon 2020, regarding Automated Machine Vision Quality Inspection:
-Develop a vision system for inspecting products against predefined quality standards
+Code used for the IfM Hackathon 2020, regarding "Automated Machine Vision Quality Inspection", which aims to develop a vision system for inspecting products against predefined quality standards.
 
+Notes:
 - Used ImageAI open source code to train h5 file to bottle image dataset
 - Can change object of interest by retraining data and changing h5 file
 - Detects bottle, barcode, scans barcode, estimates height of bottle, and writes all the data to an external spreadsheet file
